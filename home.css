@@ -1,0 +1,14 @@
+.container {
+    background-color: rgb(128, 128, 128);
+}
+
+h1 {
+    margin: 0;
+}
+
+.Logo {
+    display: flex;
+    position: relative;
+    width: 100px;
+    border-radius: 20px;
+}
